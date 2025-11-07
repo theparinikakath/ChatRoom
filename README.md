@@ -1,6 +1,6 @@
-# HappyHour 
+# ChatRoom 
 
-Welcome to **HappyHour**, a simplified version of the popular messaging app WhatsApp. This project demonstrates a full-stack web application built using MongoDB, Express, EJS, CSS, and JavaScript. It is designed to showcase how real-time messaging and a chat application can be built with these technologies.
+Welcome to **ChatRoom**, a simplified version of the group chat feature of popular messaging app WhatsApp. This project demonstrates a backend-focused web application built using MongoDB, Express, EJS, CSS, and JavaScript. It is designed to showcase how real-time messaging and a chat application can be built with these technologies.
 
 ## :movie_camera: Working Video
 
@@ -35,7 +35,7 @@ To run the project locally, follow these steps:
    Navigate to the project folder and run:
 
    ```bash
-   cd Happy-Hour
+   cd ChatRoom
    npm install
    ```
 
